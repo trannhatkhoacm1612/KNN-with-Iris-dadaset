@@ -19,7 +19,7 @@ We use the dataset in this link https://www.kaggle.com/datasets/uciml/iris
 1.Preprocessing
 2.Train with Sklearn Modulo
 
-#Update
+# Update
 1. Built KNN - modulo by myself in **K_nearest.py**
 2. Run and visulize sample dataset in **main.py**
 
