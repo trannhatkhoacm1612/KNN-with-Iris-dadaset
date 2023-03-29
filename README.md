@@ -1,5 +1,6 @@
 # KNN with Iris dataset
 Using Skitlearn to practice KNN
+
 ![feature-image](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png)
 
 #Data
@@ -17,4 +18,8 @@ We use the dataset in this link https://www.kaggle.com/datasets/uciml/iris
 # Method
 1.Preprocessing
 2.Train with Sklearn Modulo
+
+#Update
+1. Built KNN - modulo by myself in **K_nearest.py**
+2. Run and visulize sample dataset in **main.py**
 
